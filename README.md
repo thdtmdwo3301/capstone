@@ -1,6 +1,6 @@
-# 캡스톤 시험 행동 모니터
+# 멀티모달 기반 위험행동 감지 시스템
 
-**Multimodal Anti-Cheating Monitor**
+**Multimodal Risk Behavior Detection System**
 
 영상 행동과 입력 행동 정보를 결합한 **온라인 시험 부정행위 의심행동 탐지 시스템**입니다.
 웹캠에서 관찰한 고개·시선·얼굴 행동과 키보드·붙여넣기·활성 창의 행동 정보를 함께 분석하는 멀티모달 시스템입니다.
