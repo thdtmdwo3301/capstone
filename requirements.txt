@@ -1,0 +1,8 @@
+# Python 3.12 / Windows x64: matches the working test environment.
+# Install only one OpenCV distribution (both provide cv2).
+mediapipe==0.10.14
+opencv-contrib-python==4.11.0.86
+numpy==1.26.4
+pynput==1.8.2
+# Example console exam profile.
+ipython==9.17.1

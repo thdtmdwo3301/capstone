@@ -1,0 +1,39 @@
+# Python environment and generated caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local exam profiles, examinee work, and session/reviewer records
+/exam_profiles.json
+/exam_workspace/
+/exam_runs/
+/sessions/
+/reviews/
+/review_commands/
+/backups/
+*.csv
+*.lock
+*.log
+
+# Downloaded model (downloaded automatically on first use)
+/face_landmarker.task
+
+# Local validation outputs and historical documents
+/validation/
+/SHA256SUMS.txt
+/1014_캡스톤_위험도_알고리즘_정리.md
+
+# Local secrets and OS metadata
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
